@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Subscriber2
+comment1.params=
+comment1.target=Subscriber2()
+comment10.params=
+comment10.target=void\ datalog()
+comment11.params=nome
+comment11.target=java.lang.String\ getTemporalName(java.lang.String)
+comment2.params=uri
+comment2.target=java.lang.String[]\ getAuth(java.net.URI)
+comment3.params=topic\ payload
+comment3.target=void\ sendMessage(java.lang.String,\ java.lang.String)
+comment4.params=cause
+comment4.target=void\ connectionLost(java.lang.Throwable)
+comment5.params=token
+comment5.target=void\ deliveryComplete(org.eclipse.paho.client.mqttv3.IMqttDeliveryToken)
+comment6.params=topic\ message
+comment6.target=void\ messageArrived(java.lang.String,\ org.eclipse.paho.client.mqttv3.MqttMessage)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=void\ setup()
+comment9.params=
+comment9.target=void\ loop()
+numComments=12
